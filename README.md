@@ -59,12 +59,12 @@
   <h4>User Name: SA</h4>
   <h4>Password: </h4>
 
-  <li><strong>Render:</strong> Disponible en <a href="https://parcialmagneto-tsqw.onrender.com">https://parcialmagneto-tsqw.onrender.com</a></li>
+  <li><strong>Render:</strong> Disponible en <a href="https://parcialmutantes-tsqw.onrender.com">https://parcialmagneto-tsqw.onrender.com</a></li>
 </ul>
 
 <h4>Endpoints disponibles:</h4>
 <ul>
-  <li><strong>POST /mutant:</strong> Verifica si una secuencia de ADN es mutante.<a href="https://parcialmagneto-tsqw.onrender.com/mutant">https://parcialmagneto-tsqw.onrender.com/mutant</a></li>
+  <li><strong>POST /mutant:</strong> Verifica si una secuencia de ADN es mutante.<a href="https://parcialmutantes-tsqw.onrender.com/mutant">https://parcialmagneto-tsqw.onrender.com/mutant</a></li>
 </ul>
 <pre><code>
 {
